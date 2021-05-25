@@ -10,4 +10,4 @@ Dans le fichier main.cpp, redéfinir la variable ssid et password pour connecter
 
 Ensuite, indiquer l'adresse du Raspberry dans la variable mqtt_server
 
-![image-20210519172324632](\images_doc\image-20210519172324632.png)
+![image-20210519172324632](/images_doc/image-20210519172324632.png)
